@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matteo Faccetta</h1>
 <h3 align="center">Computer Science Student at ITT Pascal Cesena</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mxttex&theme=onedark&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
-
 ---
 
 ### 🌐 Connect with me
