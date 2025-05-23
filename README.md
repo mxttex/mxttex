@@ -18,7 +18,7 @@
 
 ---
 
-### 🌐 Connect with me
+
 
 <p align="center">
   <a href="https://fb.com/matteo faccetta" target="_blank">
@@ -32,7 +32,6 @@
 
 ---
 
-### 🧩 GitHub Metrics (profilo completo)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mxttex/mxttex/main/metrics.svg" alt="GitHub Metrics" />
@@ -40,15 +39,11 @@
 
 ---
 
-### 📈 Linguaggi e abitudini di coding
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mxttex/mxttex/main/metrics.languages.svg" alt="Languages & Habits" />
 </p>
 
 ---
-
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mxttex&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
