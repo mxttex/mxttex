@@ -1,0 +1,40 @@
+name: 📊 Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Ogni 12 ore
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Rome
+          config_twemoji: yes
+          
+          # Plugin: Ultima attività (commit, push, ecc.)
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+
+          # Plugin: Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+
+          # Plugin: Status
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Plugin: Repos più attivi
+          plugin_repositories: yes
+          plugin_repositories_featured: mxttex/PascalMentor
+
+          # Plugin: Followers
+          plugin_followup: yes
