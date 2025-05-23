@@ -60,8 +60,8 @@
 
 ### 📌 Progetto in evidenza
 
-> 🎓 **PascalMentor** – piattaforma per studenti e docenti  
-> Tecnologie: VueJS, Flutter, NodeJS, SQL Server  
+> 🎓 **PascalMentor** – Progetto Esame  
+> Tecnologie: VueJS, NodeJS, SQL Server  
 > 🔗 [Work in progress…](https://github.com/mxttex)
 
 ---
