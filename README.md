@@ -18,32 +18,19 @@
 
 ---
 
-
-
-<p align="center">
-  <a href="https://fb.com/matteo faccetta" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" alt="Facebook" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/matteo.faccetta" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" alt="Instagram" />
-  </a>
-</p>
-
----
-
+### 📊 GitHub Metrics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mxttex/mxttex/main/metrics.svg" alt="GitHub Metrics" />
 </p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mxttex/mxttex/main/metrics.languages.svg" alt="Languages & Habits" />
 </p>
 
 ---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mxttex&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -57,6 +44,18 @@
 
 > 🎓 **PascalMentor** – Progetto Esame  
 > Tecnologie: VueJS, NodeJS, SQL Server  
-> 🔗 [Work in progress…](https://github.com/mxttex)
+> 🔗 [Work in progress…](https://github.com/mxttex/PascalMentor)
 
 ---
+
+### 🔗 Contatti
+
+<p align="center">
+  <a href="https://facebook.com/matteo.faccetta" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/matteo.faccetta" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" alt="Instagram" />
+  </a>
+</p>
