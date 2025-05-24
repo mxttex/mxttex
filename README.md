@@ -18,16 +18,6 @@
 
 ---
 
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mxttex/mxttex/main/metrics.svg" alt="GitHub Metrics" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mxttex/mxttex/main/metrics.languages.svg" alt="Languages & Habits" />
-</p>
-
 ---
 
 ### 📈 GitHub Stats
