@@ -31,16 +31,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mxttex&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mxttex&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### 📌 Progetto in evidenza
-
-> 🎓 **PascalMentor** – Progetto Esame  
-> Tecnologie: VueJS, NodeJS, SQL Server  
-> 🔗 [Work in progress…](https://github.com/mxttex/PascalMentor)
 
 ---
 
