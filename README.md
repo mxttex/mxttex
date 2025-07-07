@@ -1,5 +1,4 @@
-<h1 align="center">👋 Ciao! Sono Matteo Faccetta</h1>
-<h3 align="center">🎓 Studente di Informatica – ITT Pascal, Cesena</h3>
+<h3 align="center">🎓 Studente di Informatica</h3>
 
 ---
 
