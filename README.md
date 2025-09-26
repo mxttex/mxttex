@@ -1,4 +1,4 @@
-<h3 align="center">🎓 Studente di Informatica</h3>
+<h3 align="center">🎓 Studente di Ing. e Scienze Informatiche, unibo</h3>
 
 ---
 
